@@ -1,0 +1,26 @@
+.message {
+  padding-left: 10px;
+  display: table;
+  max-width: 100%;
+  width: 100%;
+}
+
+.userName {
+  background-color: #0077ff;
+  color: white;
+  width: fit-content;
+  padding: 5px 10px;
+  border-radius: 10px;
+  max-width: fit-content;
+}
+
+.userMessage {
+  background-color: #f2f2f2;
+  color: black;
+  width: fit-content;
+  padding: 5px;
+  border-radius: 5px;
+  margin: 0 10px 10px 0;
+  max-width: 100%;
+  word-break: break-all;
+}

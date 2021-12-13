@@ -1,0 +1,37 @@
+.btnInput {
+  width: 100%;
+  margin: 10px 0;
+  padding: 10px;
+  border: none;
+  border-radius: 4px;
+  background-color: #0004ff;
+  color: white;
+}
+
+.lblUsuario {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.lblMensagem {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.inputUsuario {
+  width: 100%;
+  padding: 10px;
+  border: none;
+  outline: none;
+  border-radius: 10px;
+  margin: 10px 0 10px 0;
+}
+
+.inputMessage {
+  width: 100%;
+  padding: 10px;
+  border: none;
+  outline: none;
+  border-radius: 10px;
+  margin: 10px 0 10px 0;
+}
