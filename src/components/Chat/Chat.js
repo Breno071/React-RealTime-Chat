@@ -14,7 +14,7 @@ const Chat = () => {
   lastChat.current = chat;
   useEffect(() => {
     const hubConnection = new HubConnectionBuilder()
-    .withUrl("https://chatservidor20211213145151.azurewebsites.net/chat")
+    .withUrl("https://chatservidor20211214122509.azurewebsites.net/chat")
     .withAutomaticReconnect()
     .build();
     setConnection(hubConnection);
