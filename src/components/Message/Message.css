@@ -15,10 +15,10 @@
 }
 
 .userMessage {
-  background-color: #f2f2f2;
-  color: black;
+  background-color: #463f3f;
+  color: rgb(255, 255, 255);
   width: fit-content;
-  padding: 5px;
+  padding: 10px;
   border-radius: 5px;
   margin: 0 10px 10px 0;
   max-width: 100%;
